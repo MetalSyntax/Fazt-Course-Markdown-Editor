@@ -53,4 +53,4 @@ This project is licensed under the MIT License.
 
 **GitHub:** [https://github.com/MetalSyntax/Fazt-Course-Markdown-Editor](https://github.com/MetalSyntax/Fazt-Course-Markdown-Editor)
 
-**Keywords:** Markdown editor, Electron, React, JavaScript, HTML, CSS, Markdown formatting, syntax highlighting, live preview, autocomplete, spell checking, find and replace, zoom, full screen mode
+**Keywords:** Markdown editor, Electron, React, JavaScript, HTML, CSS.
